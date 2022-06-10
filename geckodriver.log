@@ -1,0 +1,85 @@
+1654603787388	geckodriver	INFO	Listening on 127.0.0.1:40695
+1654603787937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileymlOqP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654603790575	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:33115
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileymlOqP/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1654603798426	Marionette	INFO	Listening on port 45239
+Read port: 45239
+DevTools listening on ws://localhost:33115/devtools/browser/e79865ba-cde0-4af7-bfe8-09014cbd2998
+1654603798687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1654604277520	geckodriver	INFO	Listening on 127.0.0.1:40651
+1654604277982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMqIivU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654604280040	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:40857
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMqIivU/search.json.mozlz4", (void 0)))
+1654604286571	Marionette	INFO	Listening on port 46259
+Read port: 46259
+1654604286659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:40857/devtools/browser/77ba606a-93b4-41ca-9547-de63e548e9eb
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654604387265	geckodriver	INFO	Listening on 127.0.0.1:35713
+1654604387565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebr9hTT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654604390014	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45759
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebr9hTT/search.json.mozlz4", (void 0)))
+1654604396083	Marionette	INFO	Listening on port 33269
+Read port: 33269
+1654604396148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:45759/devtools/browser/1a5f90e6-845d-4f08-b9e8-9cc6de97ec7b
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654605764579	Marionette	INFO	Stopped listening on port 46259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654866197029	geckodriver	INFO	Listening on 127.0.0.1:44833
+1654866198038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletZJOAZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654866201269	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:48789
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletZJOAZ/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1654866210936	Marionette	INFO	Listening on port 43343
+Read port: 43343
+1654866211131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:48789/devtools/browser/fcbb17af-27b1-45f0-86e5-d3b507a2c073
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
