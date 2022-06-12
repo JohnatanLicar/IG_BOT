@@ -171,3 +171,18 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 Read port: 33703
 1655065169036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://localhost:48535/devtools/browser/6cd2f56a-3417-4ab6-8fbd-eac504b6f1e2
+1655065688833	geckodriver	INFO	Listening on 127.0.0.1:49597
+1655065688968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea4XAo6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655065691136	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:33047
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea4XAo6/search.json.mozlz4", (void 0)))
+1655065697365	Marionette	INFO	Listening on port 40361
+Read port: 40361
+1655065697431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:33047/devtools/browser/ed356886-6a77-4244-bb75-a979e163fb1b
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
