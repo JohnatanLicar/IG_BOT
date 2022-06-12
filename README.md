@@ -1,6 +1,6 @@
 # IG_BOT
 
-Um robo para conseguir seguidores usando uma estrategia de seguir pessoas que curtem o conteudo da conta
+Um robo para conseguir seguidores no instagram usando uma estrategia de seguir pessoas que curtem o conteudo da conta
 
 ### 📋 Pré-requisitos
 
