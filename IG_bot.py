@@ -217,8 +217,8 @@ if __name__ == '__main__':
     password = input('Digite sua senha: ')
     nicho = []
     n =  input('Deseja adcionar quantos nichos de pesquisa? [DIGITE SOMENTE NUMEROS]')
-    for q in n:
-        nicho.append(input(f'Digite o nicho numero {n} :'))
+    for n in q:
+        nicho.append(input(f'Digite o nicho numero {q} :'))
     start(navega,username,password,nicho,150)
     
     

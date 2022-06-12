@@ -83,3 +83,31 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655062714838	geckodriver	INFO	Listening on 127.0.0.1:57497
+1655062717214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHYIPHy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655062723584	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52063
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHYIPHy/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655062737813	Marionette	INFO	Listening on port 39041
+Read port: 39041
+1655062738085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52063/devtools/browser/beb22733-9cc4-4c68-9e48-8e6f953f2180
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 957: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 957: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
