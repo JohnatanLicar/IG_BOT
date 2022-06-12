@@ -111,3 +111,63 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iNkn4/yv/l/en_US/ODje2xQc3d4.js?_nc_x=Ij3Wp8lg5Kz, line 1388: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3itBX4/yV/l/en_US/ELk19kgHKfe.js?_nc_x=Ij3Wp8lg5Kz, line 42: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655064898161	geckodriver	INFO	Listening on 127.0.0.1:35171
+1655064899192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletF374i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655064901580	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:35813
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletF374i/search.json.mozlz4", (void 0)))
+1655064907762	Marionette	INFO	Listening on port 42943
+Read port: 42943
+1655064907919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:35813/devtools/browser/ad10d980-54e4-4aac-b003-14b7a48ba73d
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655064983812	geckodriver	INFO	Listening on 127.0.0.1:48457
+1655064983944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesQdARE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655064986063	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:40163
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesQdARE/search.json.mozlz4", (void 0)))
+1655064992558	Marionette	INFO	Listening on port 38931
+Read port: 38931
+1655064992616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:40163/devtools/browser/d044472c-35a7-4281-8945-291375da2ec4
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655065063240	geckodriver	INFO	Listening on 127.0.0.1:53819
+1655065063395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezYCOYL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655065065871	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49533
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezYCOYL/search.json.mozlz4", (void 0)))
+1655065072089	Marionette	INFO	Listening on port 33475
+Read port: 33475
+1655065072226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:49533/devtools/browser/d2fd8777-1cab-4427-9303-788d4e573121
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655065154569	geckodriver	INFO	Listening on 127.0.0.1:38729
+1655065154748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef1vlpn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655065156960	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:48535
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef1vlpn/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655065168934	Marionette	INFO	Listening on port 33703
+Read port: 33703
+1655065169036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:48535/devtools/browser/6cd2f56a-3417-4ab6-8fbd-eac504b6f1e2
