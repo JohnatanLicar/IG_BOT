@@ -1,65 +1,53 @@
-# IG_BOT
+# Instagram Auto Follow Bot
 
-Um robo para conseguir seguidores no instagram usando uma estrategia de seguir pessoas que curtem o conteudo da conta
+Um bot automatizado para seguir usuários no Instagram de acordo com um nicho específico.
 
-### 📋 Pré-requisitos
+## Descrição
 
-`Firefox > 90` o navegador Firefox com a versão maior que 90([aqui para mais informações]( https://www.mozilla.org/en-US/firefox/new/))
+Este bot é desenvolvido em Python e utiliza a biblioteca Selenium para automatizar ações no Instagram. Ele permite que você faça login em sua conta do Instagram, pesquise um nicho específico, acesse a lista de pessoas que curtiram uma postagem relacionada a esse nicho e siga automaticamente um número definido de usuários.
 
-`python3.8` Linguagem de programacao Python 3.8 ([aqui para mais informações](https://www.python.org/))
+O bot é útil para quem deseja expandir sua base de seguidores no Instagram, especialmente em um nicho específico, automatizando o processo de seguir outros usuários relevantes.
 
-`pyenv` Criacao de ambiente virtual ([aqui para mais informações](https://pypi.org/project/pyenv/))
+## Recursos
 
+- Login automático na conta do Instagram
+- Pesquisa de um nicho específico
+- Acesso à lista de pessoas que curtiram uma postagem relacionada ao nicho
+- Seguimento automático de um número definido de usuários
+- Proteção contra limites de ações do Instagram
 
-## 🚀 Começando
+## Pré-requisitos
 
-Faca um clone do projeto no [GITHUB](https://github.com/JohnatanLicar/IG_BOT) ou baixando o arquivo zip do proprio projeto
+- Python 3
+- Biblioteca Selenium: `pip install selenium`
+- WebDriver para o navegador Firefox
 
-## ⚗️ Como usar
+## Configuração
 
-* Primeiro passo
+1. Faça o download ou clone este repositório.
+2. Instale as dependências necessárias executando o comando `pip install -r requirements.txt`.
+3. Faça o download do WebDriver do Firefox apropriado para o seu sistema operacional e certifique-se de que o arquivo executável esteja no seu PATH.
+4. Abra o arquivo `bot.py` em um editor de texto.
+5. Preencha as informações de usuário, senha, nicho e quantidade de pessoas para seguir, nas variáveis correspondentes.
+6. Salve as alterações no arquivo.
 
-inicie o ambiete virtual
+## Uso
 
-![myenv](https://user-images.githubusercontent.com/10299254/173250284-e96512d7-077d-41d1-aa47-a5f778d6b448.png)
+1. Abra o terminal e navegue até o diretório do projeto.
+2. Execute o comando `python bot.py` para iniciar o bot.
+3. Aguarde enquanto o bot realiza as ações de login, busca e seguimento de usuários.
+4. O bot finalizará automaticamente após seguir o número definido de usuários.
 
-```
- . IG_BOT/myenv/bin/activate
-```
-caso nao consiga instalar o `pyenv` ou nao funcione acesse a esse [tutorial](https://dev.to/womakerscode/instalando-o-python-com-o-pyenv-2dc7)
+## Notas
 
-* Segundo passo
+- Este bot foi desenvolvido com base nas últimas informações disponíveis até setembro de 2021. No entanto, o Instagram pode fazer alterações em sua interface e políticas que podem afetar o funcionamento do bot.
+- Utilize este bot com responsabilidade e dentro dos limites estabelecidos pelo Instagram para evitar restrições ou bloqueios de sua conta.
 
-entre na pasta do IG_BOT e execute o IG_bot.py
+## Contribuição
 
-![ig_bot](https://user-images.githubusercontent.com/10299254/173250519-9ad84255-8ce5-48c6-a087-d3a8380911c5.png)
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, fique à vontade para abrir uma issue ou enviar um pull request.
 
-```
-python IG_bot.py
-```
+## Licença
 
-ao iniciar esse comando ira iniciar o navegador firefox em moto robo
-
-* Terceiro passo
-
-colocar as credenciais da conta `usuario` e `senha` (lembrando que essas informacoes nao sao salvas ou armazenadas em banco de dados ou arquivos)
-
-![usuarioesenha](https://user-images.githubusercontent.com/10299254/173250602-1e7604be-3e2d-4676-91cd-08da7f482d63.png)
-
-* Quarto passo
-
-adicionar a quantidade de nicho que deseja que o bot encontre no instagram
-
-esses nicho e localizado atraves das TAGS de busca no intagram
-Exemplo:
-
-![tages](https://user-images.githubusercontent.com/10299254/173250730-1bc831fb-5f78-493e-b797-50cf7c605ddd.png)
-
-cada TAG pode se considerar um nicho, entao pesquise antes de adcionar o nicho ao BOT_IG
-
-![image](https://user-images.githubusercontent.com/10299254/173251376-05a25300-ed2f-47c7-baac-7ea3ca23d339.png)
-
-
-OBS.: NAO COLOQUE A `#` AO  ADCIONAR NO BOT, APENAS O NOME
-
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
